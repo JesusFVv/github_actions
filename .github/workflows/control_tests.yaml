@@ -19,5 +19,5 @@ jobs:
         run: |
           pytest
       - name: Run flake8
-        uses: py-actions/flake/@v2
+        uses: py-actions/flake8@v2
 
